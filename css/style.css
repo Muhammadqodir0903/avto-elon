@@ -1,0 +1,20 @@
+.hero{
+text-align: center;
+    margin: 0 auto;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.main{
+    background: lightskyblue;
+}
+
+.navbar{
+background-color: rgb(2, 153, 234) !important;
+}
+
+.nav-item{
+    margin-left: 50px;
+}
+.img{
+    height: 200px;
+}
